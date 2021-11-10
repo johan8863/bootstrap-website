@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-website",
+  "version": "1.0.0",
+  "description": "Bootstrap Learning",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johan8863/bootstrap-website.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "icons",
+    "css"
+  ],
+  "author": "Johan Travieso Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johan8863/bootstrap-website/issues"
+  },
+  "homepage": "https://github.com/johan8863/bootstrap-website#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.7.0"
+  }
+}
